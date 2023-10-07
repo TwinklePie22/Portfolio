@@ -1,4 +1,4 @@
- ### Sahil - Portfolio Website
+ # Sahil - Portfolio Website
 
  ## A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
